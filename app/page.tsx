@@ -1,5 +1,3 @@
-const Page = () => {
-  return <div>hello</div>
+export default function Page() {
+  return <div className='text-3xl font-bold underline'>hello</div>
 }
-
-export default Page
